@@ -1,3 +1,4 @@
+console.log("connected")
 var questions = [{
     "question": "Question 1",
     "option1": "option 1",
