@@ -1,0 +1,72 @@
+body {
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-color: #000;
+    color: white;
+}
+
+.jumbotron {
+    box-sizing: border-box;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.main-button-container {
+    margin-top: 175px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.timer-p {
+    margin-top: 40px;
+}
+
+.answer:hover {
+    background: pink;
+}
+
+.answer {
+    padding-top: 7px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 45px;
+    color: black;
+    padding-left: 14px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.img-wrong {
+    margin-top: 40px;
+}
+
+img {
+    max-width: 350px;
+    max-height: 350px;
+    margin-bottom: 20px; 
+}
+
+.first-answer {
+    margin-top: 40px;
+}
+
+.final-title {
+    margin-top: 30px;
+}
+
+.reset-button {
+    margin-top: 40px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.summary-correct {
+    margin-top: 40px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
